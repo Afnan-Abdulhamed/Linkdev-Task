@@ -6,12 +6,12 @@ This task meant to measure needed job skills and it is a part of the hiring eval
 * Knowledge of Drupal and its features.
 * Quality of code structure.   
 
-</br>
+
 
 # Task Details
 > The objective is to develop an 'Events Management' custom module that will assist the back-end users in managing events that the end-users will browse.
 
-</br>
+
 
 ## Event Management main features:
 
@@ -39,7 +39,7 @@ This task meant to measure needed job skills and it is a part of the hiring eval
     * Details page for events.
     * Drupal block to list the latest 5 created events
 
-<br/>
+
 
 # Task deliverables:
 1. Git repo has: 
@@ -48,14 +48,14 @@ This task meant to measure needed job skills and it is a part of the hiring eval
 2. README file to install the proper steps.
 3. Task rate on a scale of 1 to 5.
 
-<br/>
+
 
 # Prerequisites
 ### Drupal 9
 * PHP => 8.0
 * MySql => 8.0
 
-<br/>
+
 
 # Note
 Using docker is a plus.
